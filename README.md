@@ -5,5 +5,5 @@ Step3:cd my-project
 step4:npm run develop
 
 Links:
-pull request:
+pull request:https://github.com/meghamvenkatasaipavankumar/PearlThoughts/pull/1
 Loom Link:https://www.loom.com/share/1067644f2ff941eca530ee47cff5cf64
